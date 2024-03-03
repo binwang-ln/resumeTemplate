@@ -15,18 +15,18 @@
     <span>专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp; 职 称：信息安全工程师</span>
   </div>
   <div class="column" style="float:right; width:25%">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfZk_3OtSSIAnjdcCkl0C9ukMfWJ6cdaPmHGA7v1OOwQ&s" data-img="1" margin-right="1" width="125" height="150">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfZk_3OtSSIAnjdcCkl0C9ukMfWJ6cdaPmHGA7v1OOwQ&s" data-img="1" margin-right="1" width="130" height="150">
   </div>
 </div>
 
 ## 教育经历
 
-* XX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 20xx.9~20xx.7&emsp;&emsp;&emsp;&emsp; 计算机专业-硕士         
+* XX大学&emsp;&emsp;&emsp;&emsp;&emsp; 20xx.9~20xx.7&emsp;&emsp;&emsp;&emsp; 计算机专业-硕士         
 * xx大学&emsp;&emsp;&emsp;&emsp;&emsp; 20xx.9~20xx.7&emsp;&emsp;&emsp;&emsp; 计算机专业-学士  
 
 ## 工作经历
 
-* xx研究院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;20xx.5~20xx.3&emsp;&emsp;&emsp;&emsp;&emsp; 研究员
+* xx研究院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;20xx.5~20xx.3&emsp;&emsp;&emsp;&emsp;&emsp; 研究员
 * xx股份有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;20xx.8~20xx.5&emsp;&emsp;&emsp;&emsp;&emsp; xx事业部-后端研发工程师       
 
 ## 专业技能
