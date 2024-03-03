@@ -21,7 +21,7 @@
 
 ## 教育经历
 
-* XX大学&emsp;&emsp;&emsp;&emsp;&emsp; 20xx.9~20xx.7&emsp;&emsp;&emsp;&emsp; 计算机专业-硕士         
+* xx大学&emsp;&emsp;&emsp;&emsp;&emsp; 20xx.9~20xx.7&emsp;&emsp;&emsp;&emsp; 计算机专业-硕士         
 * xx大学&emsp;&emsp;&emsp;&emsp;&emsp; 20xx.9~20xx.7&emsp;&emsp;&emsp;&emsp; 计算机专业-学士  
 
 ## 工作经历
