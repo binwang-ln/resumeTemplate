@@ -14,7 +14,7 @@
     <br/>
     <span>专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp; 职 称：信息安全工程师</span>
   </div>
-  <div class="column" style="float:left; width:25%">
+  <div class="column" style="float:right; width:25%">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfZk_3OtSSIAnjdcCkl0C9ukMfWJ6cdaPmHGA7v1OOwQ&s" data-img="1" margin-right="1" width="125" height="150">
   </div>
 </div>
